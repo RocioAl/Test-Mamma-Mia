@@ -1,3 +1,3 @@
 # Deploy: 
 
-https://63a27ce475a75417af21f6b1--delicate-otter-aebc0c.netlify.app/
+https://63a2a6b61643a53041f2ab5d--loquacious-dasik-42380b.netlify.app/
